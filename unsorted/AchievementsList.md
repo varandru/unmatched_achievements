@@ -28,7 +28,7 @@ Defeat the Martian Invader using the T-Rex
 Defeat a villain with a single attack
 
 #### Tales to Amaze
-Win a game against either Mothman or the Martian Invader using, Tesla, Jill Trent, Golden Bat, and Annie Christmas.
+Win a game against either Mothman or the Martian Invader using Tesla, Jill Trent, Golden Bat, and Annie Christmas.
 
 #### The Originals
 Win with Medusa, Sinbad, Alice and King Arthur.
