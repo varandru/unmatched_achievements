@@ -1,0 +1,13 @@
+# Golang
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# React JS
+node_modules/
+build/
+
+# VS Code
+.vscode/
