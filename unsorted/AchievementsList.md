@@ -1,112 +1,117 @@
-Minvis#8969: 
-Cryptid Clash
+## Minvis#8969:
+
+#### Cryptid Clash
 Defeat Mothman using Bigfoot in single player
 
-The Adventure Begins 
+#### The Adventure Begins 
 Win a game of UMA
 
-Minvis’ Challenge
+#### Minvis’ Challenge
 Win a game against the Martian invader, all 6 minions, and four random Events.
 
-The Ultimate Challenge
+#### The Ultimate Challenge
 Win a game against the Mothman, 6 minions and all the events 
 
-The Most Ultimate Challenge
+#### The Most Ultimate Challenge
 With a single character, win a game against the Mothman, 6 minions and all the events 
 
-We Brought a Zoo
+#### We Brought a Zoo
 Deal 20 damage with Infinite Strikes in a single turn.
 
-Prehistoric Terror
+#### Prehistoric Terror
 Defeat the Martian Invader using the T-Rex
 
-[Redacted]
+#### [Redacted]
 ???
 
-One Hit
+#### One Hit
 Defeat a villain with a single attack
 
-Tales to Amaze
+#### Tales to Amaze
 Win a game against either Mothman or the Martian Invader using, Tesla, Jill Trent, Golden Bat, and Annie Christmas.
 
-The Originals
+#### The Originals
 Win with Medusa, Sinbad, Alice and King Arthur.
 
-Nightmare Scenario
+#### Nightmare Scenario
 Win a game against Mothman, Jersey Devil, Ant Queen, Loveland frog and the Blob.
 
-Consultation Prize
+#### Consultation Prize
 Lose a UMA game
 
-Friends
+#### Friends
 Play a game of unmatched with four players
 
-On My Own
+#### On My Own
 Win a single player game of UMA
 
-The Creators
+#### The Creators
 Play a game of UMA with one of the designers or a member of Restoration Games staff
 
-The Spice of Life
+#### The Spice of Life
 Win UMA with every currently released character at least once.
 
-Fatal Struggle
+#### Fatal Struggle
 Win with one character left with 1 Health
 
-FANtasy to reality
+#### FANtasy to reality
 Win a game of UMA with Genie and Houdini
 
-Secret Mission
+#### Secret Mission
 As Black Widow, damage at least five enemies at once with “The Firenze Agenda”
 
-Beast Mode
+#### Beast Mode
 Deal ten or more damage to a boss using “Beastform”
 
-Hyde
+#### Hyde
 Deal 20 or more damage to a boss using “Forever Hyde”
 
-I've hunted most things that can hunt you
+#### I've hunted most things that can hunt you
 Have Muldoon (not INGEN workers) deal the killing blow to each villain and minion at least once.
 
-Leave our food alone
+#### Leave our food alone
 Win a game with Angel, Spike and Dracula
 
-Snowjedi6#3542
-Blitzkrieg
+## Snowjedi6#3542
+
+#### Blitzkrieg
 Win with all 6 minions without defeating a minion? 
 
-Skirmisher
+#### Skirmisher
 Win but never end your turn adjacent to the villain 
 
-To the Bitter End 
+#### To the Bitter End 
 Win with 2+ players, each with exactly 0 cards remaining in their deck
 
-Defenders of New York 
+#### Defenders of New York 
 Win against all 6 minions with Daredevil, Moon Knight, Spider-Man, and Luke Cage
 
-Back to Basics 
+#### Back to Basics 
 Win against Mothman with King Arthur, Alice, Sinbad, and Medusa
 
-Time in a Bottle 
+#### Time in a Bottle 
 Win with all fighters occupying their starting space at the end of the match
 
-Dominoes 
+#### Dominoes 
 You must defeat each minion individually before you can deal damage to another, or the villain.
 
-NHydraLutris#8999
-Started from the bottom, now we’re here.
+## NHydraLutris#8999
+
+#### Started from the bottom, now we’re here.
 Win an Unmatched Adventures match as each of the Buffy set characters
 
-With Great Power…
+#### With Great Power…
 Beat a villain as any marvel character
 
-Aerodyth#9473
-The Tables Have Turned
+## Aerodyth#9473
+
+#### The Tables Have Turned
 Win Tales to Amaze with as many or more heroes in play as there are enemies (currently requires Raptors or C&D)
 
-On the Road Again (or something movement related):
+#### On the Road Again (or something movement related):
 Win with Invisible Man, Ghost Rider, Sinbad, and Houdini
 
-littleexpressionlessanimal#7443
-Secret Mission 
+## littleexpressionlessanimal#7443
+
+#### Secret Mission 
 As Black Widow, damage five enemies at once with The Firenze Agenda
