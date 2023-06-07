@@ -115,3 +115,31 @@ Win with Invisible Man, Ghost Rider, Sinbad, and Houdini
 
 #### Secret Mission 
 As Black Widow, damage five enemies at once with The Firenze Agenda
+
+## SoldierB_Toasty#6516
+#### ALIEN STUDIES
+Win a game against Martian Invader with all players playing as Tesla, Jekyll/Hyde, Sherlock, and Dr. Sattler. (4 player Achievement)
+
+#### MONSTER SLAYER
+Defeat all Minions on the board before Mothman is defeated
+
+#### NO COLATERAL DAMAGE
+Win a game against Mothman without a single bridge being destroyed
+
+#### DOWN TO THE WIRE
+Win a game of UMA with the Threat Tracker being one away from the Villain winning
+
+#### BITTER SWEET END
+Win a game of UMA with your hero being the last friendly fighter standing.
+
+#### JUST AS BIG
+Defeat a Villain using Big Alice
+
+#### QUARRELS WITH SQUIRRELS 
+Defeat 20 minions with only Squirrel Girl's Squirrels
+
+#### SCALEY FACTOR
+Have each Raptor defeat a Villain or a Minion
+
+#### HELPING HAND
+Defeat a Minion or Villain who delt damage to an undefeated friendly fighter right before your turn started.
