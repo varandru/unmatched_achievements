@@ -143,3 +143,7 @@ Have each Raptor defeat a Villain or a Minion
 
 #### HELPING HAND
 Defeat a Minion or Villain who delt damage to an undefeated friendly fighter right before your turn started.
+
+## ClawsAndTeeth#7776
+#### #RegroupGaming
+Defeat the Villain using Regroup.

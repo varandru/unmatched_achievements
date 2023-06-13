@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-
-	"./http_server"
+	"server/src/http_server"
 )
 
 func main() {
 	var handler http_server.HttpUrlsHandler
+	handler.Initialize()
 
-	err := handler.ListenAndServe()
+	err := handler.Start()
 	fmt.Println(err)
 }
